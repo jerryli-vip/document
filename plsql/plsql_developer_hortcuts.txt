@@ -1,0 +1,16 @@
+i=insert
+u=update
+s=select
+f=from
+w=where
+o=order by
+#d=delete
+df=delete from
+sf=select * from
+sc=select count(*) from
+sfu=select * from for update
+cor=create or replace
+
+fn=function
+
+sso=set serveroutput on;
